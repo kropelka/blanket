@@ -1,0 +1,4 @@
+blanket
+=======
+
+Blanket algebra calculator
